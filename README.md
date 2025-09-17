@@ -23,8 +23,7 @@ CausalMesh provides causal consistency guarantees through:
 
 This implementation is inspired by research in distributed causal consistency:
 
-1. **CausalMesh: Distributed Causal Consistency Made Simple** - VLDB 2025 ([Paper](https://www.cis.upenn.edu/~sga001/papers/causalmesh-vldb25.pdf))
-2. **Vector Clock Optimization for Large-Scale Distributed Systems** - arXiv:2508.15647 ([Paper](https://arxiv.org/abs/2508.15647))
+1. **CausalMesh: A Formally Verified Causal Cache for Stateful Serverless Computing** ([Paper](https://arxiv.org/abs/2508.15647))
 
 ## Core Components
 
